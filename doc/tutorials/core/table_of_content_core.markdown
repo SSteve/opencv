@@ -77,10 +77,10 @@ understanding how to manipulate the images on a pixel level.
 
     *Compatibility:* \> OpenCV 2.0
 
-    *Author:* Bernát Gábor
+    *Author:* Bernát Gábor, Steve Nicholson
 
-    You will see how to use the @ref cv::FileStorage data structure of OpenCV to write and read
-    data to XML or YAML file format.
+    You will see how to use OpenCV's @ref cv::FileStorage data structure to write to and read
+    from XML and YAML file formats.
 
 -   @subpage tutorial_interoperability_with_OpenCV_1
 
